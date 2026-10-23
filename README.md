@@ -1,6 +1,7 @@
 # Ring Guardian — Smart Home Safety & Caretaking Hub
 
-> **🌐 Live Demo**: [https://sjkamalraj-ctrl.github.io/Ring-Guardian/](https://sjkamalraj-ctrl.github.io/Ring-Guardian/)
+> **🌐 Live Demo (Vercel)**: [https://ring-guardian.vercel.app/](https://ring-guardian.vercel.app/)  
+> **🌐 Live Demo (GitHub Pages)**: [https://sjkamalraj-ctrl.github.io/Ring-Guardian/](https://sjkamalraj-ctrl.github.io/Ring-Guardian/)
 
 A smart home caretaking, security, and access control dashboard built with **React 19**, **TypeScript**, and **Vite**, powered by a high-fidelity **Ring API & Device Simulator**.
 
